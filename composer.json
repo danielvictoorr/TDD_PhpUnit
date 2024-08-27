@@ -1,0 +1,17 @@
+{
+    "name": "daniel/tdd_php-unit",
+    "description": "Composer para uso do php unit",
+    "autoload": {
+        "psr-4": {
+            "Daniel\\TddPhpUnit\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Y"
+        }
+    ],
+    "require-dev": {
+        "phpunit/phpunit": "^7"
+    }
+}
