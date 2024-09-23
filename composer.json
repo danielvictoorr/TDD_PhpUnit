@@ -3,6 +3,7 @@
     "description": "Composer para uso do php unit",
     "autoload": {
         "psr-4": {
+             "OrderBundle\\": "src/OrderBundle/",
             "Daniel\\TddPhpUnit\\": "src/"
         }
     },
