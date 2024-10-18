@@ -3,13 +3,13 @@
     "description": "Composer para uso do php unit",
     "autoload": {
         "psr-4": {
-             "OrderBundle\\": "src/OrderBundle/",
+            "OrderBundle\\": "src/OrderBundle/",
             "Daniel\\TddPhpUnit\\": "src/"
         }
     },
     "authors": [
         {
-            "name": "Y"
+            "name": "Daniel Victor Nunes"
         }
     ],
     "require-dev": {
